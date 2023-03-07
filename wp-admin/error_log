@@ -1,0 +1,8 @@
+[17-Oct-2022 13:27:45 UTC] PHP Warning:  Undefined array key "system_colors" in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[17-Oct-2022 13:27:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[17-Oct-2022 13:27:45 UTC] PHP Warning:  Undefined array key "system_colors" in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[17-Oct-2022 13:27:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[01-Dec-2022 17:03:37 UTC] PHP Warning:  Undefined array key "system_colors" in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[01-Dec-2022 17:03:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[01-Dec-2022 17:03:37 UTC] PHP Warning:  Undefined array key "system_colors" in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110
+[01-Dec-2022 17:03:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/mari3264/public_html/wp-content/plugins/auxin-elements/includes/elementor/modules/settings/base/manager.php on line 110

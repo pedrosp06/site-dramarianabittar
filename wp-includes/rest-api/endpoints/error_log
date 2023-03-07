@@ -1,0 +1,12 @@
+[02-Dec-2022 01:05:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home1/mari3264/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/mari3264/public_html/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php on line 17
+[02-Dec-2022 01:06:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home1/mari3264/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/mari3264/public_html/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php on line 17
+[02-Dec-2022 01:08:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /home1/mari3264/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/mari3264/public_html/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php on line 17

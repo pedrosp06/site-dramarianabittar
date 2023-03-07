@@ -1,0 +1,8 @@
+[02-Dec-2022 01:03:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/mari3264/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/mari3264/public_html/wp-includes/class.wp-dependencies.php on line 11
+[26-Jan-2023 01:23:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/mari3264/public_html/wp-includes/functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/mari3264/public_html/wp-includes/functions.php on line 8

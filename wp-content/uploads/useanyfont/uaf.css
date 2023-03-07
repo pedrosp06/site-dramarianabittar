@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'bahnschrift';
+					src: url('/wp-content/uploads/useanyfont/6112Bahnschrift.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/6112Bahnschrift.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.bahnschrift{font-family: 'bahnschrift' !important;}
+
+		
